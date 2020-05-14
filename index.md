@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Welcome to Protector Of ELO
 
-You can use the [editor on GitHub](https://github.com/LeafyDev/ProtectorOfELO/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Explaining commands for use in [TheOtherLeaf](https://twitch.tv/TheOtherLeaf)'s Twitch/Discord!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## User commands
 
-### Markdown
+- !discord - invites people to discord
+- !hype - line of hype emotes
+- !love - line of love emotes
+- !social - links to my twitter, discord and youtube
+- !tip - little message about donations
+- !multi - link to the multistre.am currently active
+- !join - gives info about joining in game depending on currently played game
+- !clip - create a clip and posts to chat
+  - untested
+- !uptime - shows how long the stream has been live
+- !followage [user] - shows how long the user has been following the channel
+  - may be slow
+- !subcount - shows how many people are currently subscribed to the channel
+- !lurk - fun little message about lurking
+- !blind - for use in variety games, warns people about backseat gaming
+- !ban - eliminate someone from chat
+  - but not actually
+- !time - gives my local time
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Mod commands
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeafyDev/ProtectorOfELO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- !title - gets current title
+- !title [something fancy] - sets the title
+- !game - gets current game
+- !game [some game] - sets the game
+- !setmulti [twitch usernames] - sets the link for use with !multi, if multiple, separate with slashes
+  - *ex: javamonkey_/jaihoo*
+- !so [user] - shouts out a user with their most recent game
+- !raid [user] - sends raid message for users to spam their chat with
