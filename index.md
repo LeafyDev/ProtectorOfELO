@@ -12,7 +12,7 @@ Explaining commands for use in [TheOtherLeaf](https://twitch.tv/TheOtherLeaf)'s 
 - !multi - link to the multistre.am currently active
 - !join - gives info about joining in game depending on currently played game
 - !clip - create a clip and posts to chat
-  - untested
+  - currently disabled
 - !uptime - shows how long the stream has been live
 - !followage [user] - shows how long the user has been following the channel
   - may be slow
@@ -22,6 +22,8 @@ Explaining commands for use in [TheOtherLeaf](https://twitch.tv/TheOtherLeaf)'s 
 - !ban - eliminate someone from chat
   - but not actually
 - !time - gives my local time
+- !song - gets currently playing song from spotify
+- !setlist - gives link to Clone Hero setlist
 
 ## Mod commands
 
@@ -29,7 +31,7 @@ Explaining commands for use in [TheOtherLeaf](https://twitch.tv/TheOtherLeaf)'s 
 - !title [something fancy] - sets the title
 - !game - gets current game
 - !game [some game] - sets the game
-- !setmulti [twitch usernames] - sets the link for use with !multi, if multiple, separate with slashes
+- !setmulti [twitch usernames] - sets the link for use with !multi, if multiple, separate with slashes, use "none" if no multi is active
   - *ex: javamonkey_/jaihoo*
 - !so [user] - shouts out a user with their most recent game
 - !raid [user] - sends raid message for users to spam their chat with
