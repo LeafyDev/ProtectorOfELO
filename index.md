@@ -24,6 +24,8 @@ Explaining commands for use in [TheOtherLeaf](https://twitch.tv/TheOtherLeaf)'s 
 - !time - gives my local time
 - !song - gets currently playing song from spotify
 - !setlist - gives link to Clone Hero setlist
+- !quote - gets random quote
+- !quote [x] - gets quote #x
 
 ## Mod commands
 
@@ -35,3 +37,4 @@ Explaining commands for use in [TheOtherLeaf](https://twitch.tv/TheOtherLeaf)'s 
   - *ex: javamonkey_/jaihoo*
 - !so [user] - shouts out a user with their most recent game
 - !raid [user] - sends raid message for users to spam their chat with
+- !quote add [quote] - adds quote to database (in discord, use `!addquote [quote]`)
