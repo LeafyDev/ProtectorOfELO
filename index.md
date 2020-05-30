@@ -11,6 +11,7 @@ Explaining commands for use in [TheOtherLeaf](https://twitch.tv/TheOtherLeaf)'s 
 - !tip - little message about donations
 - !multi - link to the multistre.am currently active
 - !join - gives info about joining in game depending on currently played game
+  - can also `!join hatter` because I'm often on her account
 - !clip - create a clip and posts to chat
   - currently disabled
 - !uptime - shows how long the stream has been live
@@ -23,6 +24,7 @@ Explaining commands for use in [TheOtherLeaf](https://twitch.tv/TheOtherLeaf)'s 
   - but not actually
 - !time - gives my local time
 - !song - gets currently playing song from spotify
+  - currently disabled
 - !setlist - gives link to Clone Hero setlist
 - !quote - gets random quote
 - !quote [x] - gets quote #x
